@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
 
-  get '/test', to: 'test#show'
+  get '/test', to: 'sms#show'
 
 end
